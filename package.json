@@ -1,0 +1,30 @@
+{
+  "name": "pi-wezterm-dispatch",
+  "version": "0.1.0",
+  "description": "Pi extension that dispatches tasks to multiple specialist agents in WezTerm panes, with live status tracking and result collection",
+  "main": "extension.ts",
+  "keywords": [
+    "pi",
+    "pi-extension",
+    "pi-coding-agent",
+    "wezterm",
+    "agents",
+    "multi-agent",
+    "dispatch"
+  ],
+  "author": "rosca-cristian",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/rosca-cristian/pi-wezterm-dispatch.git"
+  },
+  "bugs": {
+    "url": "https://github.com/rosca-cristian/pi-wezterm-dispatch/issues"
+  },
+  "os": [
+    "win32"
+  ],
+  "peerDependencies": {
+    "@mariozechner/pi-coding-agent": ">=0.65.0"
+  }
+}
