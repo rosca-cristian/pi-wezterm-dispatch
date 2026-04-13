@@ -1,6 +1,6 @@
 {
   "name": "pi-wezterm-dispatch",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "Pi extension that dispatches tasks to multiple specialist agents in WezTerm panes, with live status tracking and result collection",
   "main": "extension.ts",
   "keywords": [
